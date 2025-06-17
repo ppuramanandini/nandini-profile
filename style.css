@@ -338,17 +338,4 @@ nav ul li a:hover,
   padding: 0.25rem 0.5rem;
   font-size: 0.625rem
 }
-@media (max-width: 768px) {
-  .hero, .about, .skills-container, .contact {
-    flex-direction: column;
-    align-items: center;
-    padding: 1.25rem;
-  }
-  .project {
-    width: 90%;
-    margin-bottom: 1.25rem;
-  }
-  .technical-skills, .professional-skills {
-    width: 100%;
-  }
-}
+
